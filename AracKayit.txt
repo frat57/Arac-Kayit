@@ -1,0 +1,4 @@
+Otomobil_1	mercedes	kirmizi	250	200000.0	15	4	1997	kur�unlu
+Otomobil_2	dsfa	k�rm�z�	89.0	89898.0	4	4	1990	dizel
+Otomobil_3	fdsajf	dskafj	343.0	4214.0	4	4	142	fdsf
+UcanGemi_1	dsfjkl	Sar�	34	34	34	34	34	true
